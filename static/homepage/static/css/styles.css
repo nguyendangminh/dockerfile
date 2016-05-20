@@ -1,0 +1,9 @@
+#fpt-logo {
+	height: 60px;
+	width: 180px;
+}
+
+#fpt-banner {
+	background-image: url("../images/bg.jpg");
+    background-color: #cccccc;
+}
